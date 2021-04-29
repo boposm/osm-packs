@@ -1,4 +1,4 @@
-# osm-packs
+# OSM Mod Pack
 A large file consisting of modpacks for Minecraft.
 
 INTRODUCTION
